@@ -1,0 +1,4 @@
+C:\Users\Sala\Downloads\GLSL_Lighting\Debug\TemplateProject.exe
+D:\6\grafica\mision semana 3\GLSL_Lighting\GLSL_Lighting\Debug\TemplateProject.exe
+D:\6\grafica\mision semana 3\GLSL_Lighting\Debug\TemplateProject.exe
+D:\6 semestre\Computación grafica\semana 3\GLSL_Lighting\Debug\TemplateProject.exe
